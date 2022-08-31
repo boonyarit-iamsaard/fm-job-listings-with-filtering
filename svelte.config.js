@@ -14,9 +14,6 @@ const config = {
       pages: 'build',
       precompress: false,
     }),
-    prerender: {
-      default: true,
-    },
   },
 };
 
